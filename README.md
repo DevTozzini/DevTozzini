@@ -7,7 +7,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/OHakken#5636)
 
 
-![Tozzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOZZINI10&show_icons=true&theme=radical)
+![Tozzini's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOZZINI10&show_icons=true&theme=radical) <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOZZINI10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia.
 
@@ -22,3 +23,4 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
  </div>
+
